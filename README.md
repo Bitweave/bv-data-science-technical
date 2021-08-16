@@ -33,19 +33,3 @@ $ pip install jupyter pandas networkx sklearn matplotlib
 ```bash
 $ jupyter notebook
 ```
-
-## Contents
-```dir
-\bv-data-science-technical
-    \data
-        - \titanic
-            - test.csv
-            - train.csv
-        - \wikipedia
-            - test.csv
-            - train.csv
-  - Pipfile
-  - Pipfile.lock
-  - Titanic Survival.ipynb
-  - Wikipedia Edits.ipynb
-```
