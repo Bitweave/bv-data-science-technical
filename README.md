@@ -13,8 +13,8 @@ You can explore one or both depending on time.
 NB: If setup on your system is not possible, do not worry someone from Bitweave will share their screen and the technical test will be done as a pair programming exercise.
 
 ### Pre-requisites:
- - pipenv
- - pyenv
+ - [pipenv](https://pipenv.pypa.io/en/latest/)
+ - [pyenv](https://github.com/pyenv/pyenv)
 
 ### Install
 
