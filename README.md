@@ -26,7 +26,7 @@ $ pipenv shell
 
 Option 2 - **NOT** recommended:
 ```bash
-$ pip install jupyter pandas networkx sklearn matplotlib
+$ pip install jupyter pandas networkx scikit-learn matplotlib
 ```
 
 ### Run Jupyter
