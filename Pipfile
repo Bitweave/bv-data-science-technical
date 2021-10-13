@@ -9,7 +9,6 @@ pandas = "*"
 networkx = "*"
 matplotlib = "*"
 scikit-learn = "*"
-sentence-transformers = "*"
 
 [dev-packages]
 
